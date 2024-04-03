@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import styles from "./Banner.module.css";
-import circuloColorido from 'assets/circulo_colorido.png'
+import donuts from 'assets/roscaClara.png';
 import minhaFoto from 'assets/neto.jpg'
 
 export default function Banner() {
@@ -19,7 +19,7 @@ export default function Banner() {
             </div>
             <div className={styles.imagens} >
                 <img className={styles.circuloColorido}
-                    src={circuloColorido}
+                    src={donuts}
                     aria-hidden={true}
                 />
 
