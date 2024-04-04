@@ -33,7 +33,7 @@ export default function SobreMim() {
 
             <p className={styles.paragrafo}>
 
-                Após a graduação, busquei aprimorar minhas habilidades em comunicação através da conclusão de uma graduação em PNL pela SLAP, explorando a formatação neural da comunicação.Desenvolvi competências para identificar e modificar padrões de comportamento e comunicação, adaptando minha forma de se comunicar a diferentes públicos e objetivos. As técnicas aprendidas em inteligência emocional e comunicação eficaz me permitem criar conexões mais profundas, transmitir ideias de forma clara e alcançar resultados desejados em projetos profissionais, onde a PNL se tornou fundamental. Combinando esse conhecimento com Publicidade e Marketing, sinto-me preparado para enfrentar desafios no mercado de trabalho e contribuir para o sucesso das empresas.
+                Após a graduação, busquei aprimorar minhas habilidades em comunicação através da conclusão de uma graduação em PNL pela SLAP, explorando a formatação neural da comunicação. Desenvolvi competências para identificar e modificar padrões de comportamento e comunicação, adaptando minha forma de se comunicar a diferentes públicos e objetivos. As técnicas aprendidas em inteligência emocional e comunicação eficaz me permitem criar conexões mais profundas, transmitir ideias de forma clara e alcançar resultados desejados em projetos profissionais, onde a PNL se tornou fundamental. Combinando esse conhecimento com Publicidade e Marketing, sinto-me preparado para enfrentar desafios no mercado de trabalho e contribuir para o sucesso das empresas.
             </p>
 
             <p className={styles.paragrafo}>
@@ -41,7 +41,7 @@ export default function SobreMim() {
             </p>
 
             <p className={styles.paragrafo}>
-                Busquei cursos online na Alura, Udemy e em outras plataformas devido ao meu interesse em programação. Graças a essa iniciativa, adentrei no universo da lógica de programação e construí uma base sólida de conhecimento. Graças a essa base, pude explorar várias línguas e tomar uma decisão consciente sobre em qual delas devo me aprofundar nos estudos. Enquanto aprendia lógica de programação, também me dediquei ao estudo de ferramentas de UI & UX, como Figma e Adobe XD. Graças a essa jornada, pude desenvolver habilidades para criar interfaces intuitivas e esteticamente agradáveis, o que contribuiu significativamente para o enriquecimento da minha formação como programador.
+                Busquei cursos online na Alura, Udemy e em outras plataformas devido ao meu interesse em programação. Graças a essa iniciativa, adentrei no universo da lógica de programação e construí uma base sólida de conhecimento. Pude explorar várias línguas e tomar uma decisão consciente sobre em qual delas devo me aprofundar nos estudos. Enquanto aprendia lógica de programação, também me dediquei ao estudo de ferramentas de UI & UX, como Figma e Adobe XD. Graças a essa jornada, pude desenvolver habilidades para criar interfaces intuitivas e esteticamente agradáveis, o que contribuiu significativamente para o enriquecimento da minha formação como programador.
             </p>
 
             <p className={styles.paragrafo}>
